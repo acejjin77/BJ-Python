@@ -1,22 +1,16 @@
 from collections import deque
 
 n, k = map(int, input().split())
+visit = [0 for i in range(100001)]
 
-visit = [0 for i in range(200001)]
-queue = deque()
-queue.append([n, 0])
+queue = deque([n])
 
 while queue:
-    p, d = queue[0][0], queue[0][1]
-    if p == k:
+    a = queue.popleft()
+    if a == k:
+        print(visit[a])
         break
-    queue.popleft()
-    visit[p] = 1
-    if p - 1 >= 0 and visit[p - 1] == 0:
-        queue.append([p - 1, d + 1])
-    if p + 1 <= 200000 and visit[p + 1] == 0:
-        queue.append([p + 1, d + 1])
-    if p * 2 <= 200000 and visit[p * 2] == 0:
-        queue.append([p * 2, d + 1])
-
-    print(queue[0][1])
+    for num in [a + 1, a - 1, a * 2]:
+        if 100000 >= num >= 0 == visit[num]:
+            visit[num] = visit[a] + 1
+            queue.append(num)

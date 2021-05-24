@@ -1,14 +1,19 @@
 import sys
 
-n = int(sys.stdin.readline())
-result = 0
+input = sys.stdin.readline
 
-while n >= 5:
-    if n % 5 == 0:
-        result += (n // 5)
-        print(result)
-        break
-    n -= 3
-    result += 1
+n = int(input())
+decks = [int(input()) for _ in range(n)]
+
+decks.sort()
+
+if len(decks) < 3:
+    print(sum(decks))
+
 else:
-    print(-1)
+    count = decks[0] + decks[1]
+
+    for deck in decks[2:]:
+        count += count + deck
+
+    print(count)

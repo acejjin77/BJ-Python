@@ -14,11 +14,12 @@ for i in range(n):
 while queue:
     a, b = queue.popleft()
     for i in range(4):
-        x = a + dx[i]
-        y = b + dy[i]
-        if 0 <= x < n and 0 <= y < m and s[x][y] == 0:
-            s[x][y] = s[a][b] + 1
-            queue.append([x, y])
+        nx = a + dx[i]
+        ny = b + dy[i]
+        if 0 <= nx < n and 0 <= ny < m and s[nx][ny] == 0:
+            s[nx][ny] = s[a][b] + 1
+            queue.append([nx, ny])
+
 
 isTrue = False
 result = -2
@@ -27,7 +28,7 @@ for i in s:
         if j == 0:
             isTrue = True
         result = max(result, j)
-if isTrue:
+if isTrue == True:
     print(-1)
 elif result == -1:
     print(0)

@@ -2,159 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cf8f4a4-43f5-482c-ae4e-f99b21303d8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DD search/1920.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS, BFS/1260.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS, BFS/1697.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS, BFS/2606.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS, BFS/2667.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS, BFS/7576.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/14499.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/2320.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__realtest/2019 line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtraking/1242114323421.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtraking/14888(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtraking/14888.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtraking/15649.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtraking/333333333.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backtraking/backup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brute force/1436.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brute force/2231.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brute force/2320.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brute force/2798.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brute force/7568.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming1/1149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming1/1463.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming1/1904.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming1/1932.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic programming1/2839.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/11047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/11399.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/13305.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/1541.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/1715.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/1931.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heap/11279.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heap/11286.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heap/1927.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math1/1010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math1/11051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math1/14225.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math1/1934.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math1/2981.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math1/9375.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/11866.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/2164.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue/5430.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shortest path/1753.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/1427.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/2108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split/1992.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/split/2630.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/10773.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/4949.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/9012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Next round.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spreadsheets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Treatre square.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Watermelon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Way too long word.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class_init.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/max_substr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prefix.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/1449.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/2217.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/2847.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/5585.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DD search/1920.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/1260.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/1260.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/1697.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/1697.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/2667.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/2667.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFS, BFS/7576.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/7576.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__realtest/2019 line.py" beforeDir="false" afterPath="$PROJECT_DIR$/__realtest/2019 line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy/1715.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy/1715.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy/2839.py" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/simple_coding_test$1697.coverage" NAME="1697 Coverage Results" MODIFIED="1618824494334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$2847.coverage" NAME="2847 Coverage Results" MODIFIED="1619228382470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$any.coverage" NAME="any Coverage Results" MODIFIED="1620275309302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__realtest" />
+    <SUITE FILE_PATH="coverage/BJ$1439.coverage" NAME="1439 Coverage Results" MODIFIED="1619146627103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
     <SUITE FILE_PATH="coverage/simple_coding_test$2839.coverage" NAME="2839 Coverage Results" MODIFIED="1618824481085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic programming1" />
-    <SUITE FILE_PATH="coverage/simple_coding_test$11047.coverage" NAME="11047 Coverage Results" MODIFIED="1618908708626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$2019_line.coverage" NAME="2019 line Coverage Results" MODIFIED="1620120603846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__realtest" />
+    <SUITE FILE_PATH="coverage/BJ$5585.coverage" NAME="5585 Coverage Results" MODIFIED="1619230357788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
     <SUITE FILE_PATH="coverage/simple_coding_test$2839__1_.coverage" NAME="2839 (1) Coverage Results" MODIFIED="1618907330797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$10162.coverage" NAME="10162 Coverage Results" MODIFIED="1619235652616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$1149.coverage" NAME="1149 Coverage Results" MODIFIED="1620016715361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic programming1" />
+    <SUITE FILE_PATH="coverage/BJ$11047.coverage" NAME="11047 Coverage Results" MODIFIED="1618911758182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$bfs.coverage" NAME="bfs Coverage Results" MODIFIED="1620309459625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__realtest" />
+    <SUITE FILE_PATH="coverage/simple_coding_test$1697.coverage" NAME="1697 Coverage Results" MODIFIED="1618824494334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$1715.coverage" NAME="1715 Coverage Results" MODIFIED="1618995592849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$1700.coverage" NAME="1700 Coverage Results" MODIFIED="1619155365242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$2217.coverage" NAME="2217 Coverage Results" MODIFIED="1619234137982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$1449.coverage" NAME="1449 Coverage Results" MODIFIED="1619097117640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/simple_coding_test$11047.coverage" NAME="11047 Coverage Results" MODIFIED="1618908708626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$anythin.coverage" NAME="anythin Coverage Results" MODIFIED="1620457982727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/__realtest" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greedy/2839.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/greedy/1715.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greedy/11047.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shortest path/1753.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greedy/1931.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greedy/1541.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greedy/11399.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greedy/13305.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DFS, BFS/1697.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brute force/1436.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -166,81 +65,97 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/math1/14225.py" />
         <option value="$PROJECT_DIR$/dynamic programming1/1904.py" />
         <option value="$PROJECT_DIR$/dynamic programming1/2839.py" />
-        <option value="$PROJECT_DIR$/__realtest/2019 line.py" />
         <option value="$PROJECT_DIR$/DFS, BFS/1697.py" />
         <option value="$PROJECT_DIR$/greedy/2839.py" />
         <option value="$PROJECT_DIR$/greedy/11047.py" />
+        <option value="$PROJECT_DIR$/greedy/2437.py" />
+        <option value="$PROJECT_DIR$/greedy/1715.py" />
+        <option value="$PROJECT_DIR$/greedy/1449.py" />
+        <option value="$PROJECT_DIR$/greedy/1700.py" />
+        <option value="$PROJECT_DIR$/greedy/1439.py" />
+        <option value="$PROJECT_DIR$/greedy/2847.py" />
+        <option value="$PROJECT_DIR$/greedy/5585.py" />
+        <option value="$PROJECT_DIR$/greedy/2217.py" />
+        <option value="$PROJECT_DIR$/greedy/10162.py" />
+        <option value="$PROJECT_DIR$/dynamic programming1/1149.py" />
+        <option value="$PROJECT_DIR$/__realtest/2019 line.py" />
+        <option value="$PROJECT_DIR$/__realtest/any.py" />
+        <option value="$PROJECT_DIR$/__realtest/bfs.py" />
+        <option value="$PROJECT_DIR$/__realtest/anythin.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1056" />
+    <option name="x" value="951" />
+    <option name="y" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1048" />
   </component>
+  <component name="ProjectId" id="1snS8PuStl9g4nU8W6MiNTPu18s" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="simple coding test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="simple coding test" type="462c0819:PsiDirectoryNode" />
+              <item name="BJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BJ" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="simple coding test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="simple coding test" type="462c0819:PsiDirectoryNode" />
+              <item name="BJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BJ" type="462c0819:PsiDirectoryNode" />
               <item name="__realtest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="simple coding test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="simple coding test" type="462c0819:PsiDirectoryNode" />
+              <item name="BJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BJ" type="462c0819:PsiDirectoryNode" />
               <item name="greedy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DFS, BFS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\acejj\simple coding test\greedy" />
-      <recent name="C:\Users\acejj\simple coding test\dynamic programming1" />
-      <recent name="C:\Users\acejj\simple coding test\math1" />
+      <recent name="C:\Users\acejj\BJ\DFS, BFS" />
+      <recent name="C:\Users\acejj\BJ\tree" />
+      <recent name="C:\Users\acejj\BJ\binary search" />
+      <recent name="C:\Users\acejj\BJ\__realtest" />
+      <recent name="C:\Users\acejj\BJ\greedy" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.11047">
-    <configuration name="11047" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4963">
+    <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple coding test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,12 +163,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy/11047.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/1012.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +177,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1697" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11724" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple coding test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/11724.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1697" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple coding test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2839 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1992" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple coding test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,12 +229,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy/2839.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree/1992.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2839" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4963" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple coding test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,12 +251,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamic programming1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamic programming1/2839.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/4963.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,13 +267,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11047" />
-        <item itemvalue="Python.2839 (1)" />
+        <item itemvalue="Python.4963" />
+        <item itemvalue="Python.11724" />
+        <item itemvalue="Python.1992" />
+        <item itemvalue="Python.1012" />
         <item itemvalue="Python.1697" />
-        <item itemvalue="Python.2839" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -350,21 +289,42 @@
       <workItem from="1617332057248" duration="987000" />
       <workItem from="1618801515466" duration="5465000" />
       <workItem from="1618906992333" duration="2302000" />
+      <workItem from="1618911542688" duration="2010000" />
+      <workItem from="1618965848878" duration="17354000" />
+      <workItem from="1619141566296" duration="19586000" />
+      <workItem from="1619422471272" duration="611000" />
+      <workItem from="1619506997861" duration="276000" />
+      <workItem from="1619597684628" duration="29000" />
+      <workItem from="1619753066616" duration="364000" />
+      <workItem from="1620016637474" duration="6576000" />
+      <workItem from="1620120437698" duration="178000" />
+      <workItem from="1620181147069" duration="282000" />
+      <workItem from="1620181664761" duration="77000" />
+      <workItem from="1620196405969" duration="70000" />
+      <workItem from="1620196497201" duration="39000" />
+      <workItem from="1620274827172" duration="1196000" />
+      <workItem from="1620309380527" duration="369000" />
+      <workItem from="1620321723016" duration="1417000" />
+      <workItem from="1620452192964" duration="1835000" />
+      <workItem from="1621506705681" duration="10305000" />
+      <workItem from="1621566648923" duration="16135000" />
+      <workItem from="1621761750028" duration="15639000" />
+      <workItem from="1621847953051" duration="17104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8754000" />
+    <option name="totallyTimeSpent" value="61023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09605123" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20915033" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -373,17 +333,31 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32952926" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32952926" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32977587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BJ$1697.coverage" NAME="1697 Coverage Results" MODIFIED="1621768940623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$4963.coverage" NAME="4963 Coverage Results" MODIFIED="1621877242028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$2178.coverage" NAME="2178 Coverage Results" MODIFIED="1621608144882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$1992.coverage" NAME="1992 Coverage Results" MODIFIED="1621854822609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
+    <SUITE FILE_PATH="coverage/BJ$2667.coverage" NAME="2667 Coverage Results" MODIFIED="1621613528179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$11724.coverage" NAME="11724 Coverage Results" MODIFIED="1621871052118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$3079.coverage" NAME="3079 Coverage Results" MODIFIED="1621516162685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary search" />
+    <SUITE FILE_PATH="coverage/BJ$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1621583521808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$2143__1_.coverage" NAME="2143 (1) Coverage Results" MODIFIED="1621566743435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary search" />
+    <SUITE FILE_PATH="coverage/BJ$7795.coverage" NAME="7795 Coverage Results" MODIFIED="1621569143189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary search" />
+    <SUITE FILE_PATH="coverage/BJ$7576.coverage" NAME="7576 Coverage Results" MODIFIED="1621765165402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$1012.coverage" NAME="1012 Coverage Results" MODIFIED="1621782184301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/math1/14225.py">
@@ -410,8 +384,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__realtest/2019 line.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/greedy/1676.py" />
+    <entry file="file://$PROJECT_DIR$/shortest path/1753.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DFS, BFS/1697.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -420,58 +402,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/brute force/1436.py">
+    <entry file="file://$PROJECT_DIR$/greedy/2839.py" />
+    <entry file="file://$PROJECT_DIR$/greedy/2437.py" />
+    <entry file="file://$PROJECT_DIR$/greedy/1946.py" />
+    <entry file="file://$PROJECT_DIR$/greedy/1700.py" />
+    <entry file="file://$PROJECT_DIR$/backtraking/14888(2).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="414">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/greedy/1541.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shortest path/1753.py">
+    <entry file="file://$PROJECT_DIR$/backtraking/14888.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="-36">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/greedy/13305.py">
+    <entry file="file://$PROJECT_DIR$/backtraking/15649.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/greedy/11399.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greedy/1676.py">
+    <entry file="file://$PROJECT_DIR$/backtraking/333333333.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="14" lean-forward="true" selection-end-line="20" />
+        <state relative-caret-position="108">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DD search/1920.py" />
+    <entry file="file://$PROJECT_DIR$/greedy/2847.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backtraking/1242114323421.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/11047.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backtraking/backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brute force/1436.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brute force/2231.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic programming1/1149.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/1449.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/1439.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heap/1927.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/1541.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/1715.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__realtest/2019 line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__realtest/LRUD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/greedy/1931.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/greedy/11047.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greedy/2839.py">
+    <entry file="file://$PROJECT_DIR$/greedy/2217.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/greedy/1715.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/greedy/5585.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/10162.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/11399.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/13305.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__realtest/bfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__realtest/anythin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

@@ -1,35 +1,31 @@
-import sys
-
-input = sys.stdin.readline
-
-n, m, v = map(int, input().split())
-matrix = [[0] * (n + 1) for i in range(n + 1)]
-visit = [0 for i in range(n + 1)]
-
-for i in range(m):
-    a, b = map(int, input().split())
-    matrix[a][b], matrix[b][a] = 1, 1
-
+from collections import deque
 
 def dfs(v):
     print(v, end=' ')
     visit[v] = 1
     for i in range(1, n + 1):
-        if visit[i] == 0 and matrix[v][i] == 1:
+        if visit[i] == 0 and s[v][i] == 1:
             dfs(i)
 
-
 def bfs(v):
+    queue = deque([v])
     visit[v] = 0
-    queue = [v]
     while queue:
-        v = queue.pop(0)
+        v = queue.popleft()
         print(v, end=' ')
         for i in range(1, n + 1):
-            if visit[i] == 1 and matrix[v][i] == 1:
+            if visit[i] == 1 and s[v][i]:
                 queue.append(i)
                 visit[i] = 0
 
+
+n, m, v = map(int, input().split())
+s = [[0] * (n + 1) for _ in range(n + 1)]
+visit = [0] * (n + 1)
+
+for i in range(m):
+    x, y = map(int, input().split())
+    s[x][y] = s[y][x] = 1
 
 dfs(v)
 print()
