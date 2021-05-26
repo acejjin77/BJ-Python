@@ -1,19 +1,18 @@
+import heapq
 import sys
 
 input = sys.stdin.readline
 
 n = int(input())
-decks = [int(input()) for _ in range(n)]
+s = [int(input()) for _ in range(n)]
 
-decks.sort()
+heapq.heapify(s)
+result = 0
 
-if len(decks) < 3:
-    print(sum(decks))
+while len(s) > 1:
+    c1 = heapq.heappop(s)
+    c2 = heapq.heappop(s)
+    result += c1 + c2
+    heapq.heappush(s, c1 + c2)
 
-else:
-    count = decks[0] + decks[1]
-
-    for deck in decks[2:]:
-        count += count + deck
-
-    print(count)
+print(result)

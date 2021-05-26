@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cf8f4a4-43f5-482c-ae4e-f99b21303d8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/greedy/1449.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/2217.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/2847.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy/5585.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS, BFS/2468_bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greedy/1946.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DD search/1920.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS, BFS/1260.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/1260.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS, BFS/1697.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/1697.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS, BFS/2667.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/2667.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS, BFS/7576.py" beforeDir="false" afterPath="$PROJECT_DIR$/DFS, BFS/7576.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__realtest/2019 line.py" beforeDir="false" afterPath="$PROJECT_DIR$/__realtest/2019 line.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/greedy/1715.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy/1715.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greedy/2839.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,21 +132,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DFS, BFS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/greedy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acejj\BJ\greedy" />
       <recent name="C:\Users\acejj\BJ\DFS, BFS" />
       <recent name="C:\Users\acejj\BJ\tree" />
       <recent name="C:\Users\acejj\BJ\binary search" />
       <recent name="C:\Users\acejj\BJ\__realtest" />
-      <recent name="C:\Users\acejj\BJ\greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4963">
-    <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1202">
+    <configuration name="1080" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple coding test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,12 +154,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/1012.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy/1080.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11724" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1202" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple coding test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,12 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/11724.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy/1202.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1697" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1715" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple coding test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,12 +198,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/1697.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy/1715.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1992" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1744" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple coding test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,12 +220,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree/1992.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy/1744.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4963" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2437" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple coding test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,12 +242,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS, BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS, BFS/4963.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy/2437.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,11 +258,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4963" />
-        <item itemvalue="Python.11724" />
-        <item itemvalue="Python.1992" />
-        <item itemvalue="Python.1012" />
-        <item itemvalue="Python.1697" />
+        <item itemvalue="Python.1202" />
+        <item itemvalue="Python.2437" />
+        <item itemvalue="Python.1080" />
+        <item itemvalue="Python.1744" />
+        <item itemvalue="Python.1715" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +300,9 @@
       <workItem from="1621506705681" duration="10305000" />
       <workItem from="1621566648923" duration="16135000" />
       <workItem from="1621761750028" duration="15639000" />
-      <workItem from="1621847953051" duration="17104000" />
+      <workItem from="1621847953051" duration="18511000" />
+      <workItem from="1621900613905" duration="3530000" />
+      <workItem from="1621995080179" duration="21662000" />
     </task>
     <servers />
   </component>
@@ -345,18 +338,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/greedy/1931.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BJ$1697.coverage" NAME="1697 Coverage Results" MODIFIED="1621768940623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
     <SUITE FILE_PATH="coverage/BJ$4963.coverage" NAME="4963 Coverage Results" MODIFIED="1621877242028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$1339.coverage" NAME="1339 Coverage Results" MODIFIED="1621908291027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
     <SUITE FILE_PATH="coverage/BJ$2178.coverage" NAME="2178 Coverage Results" MODIFIED="1621608144882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
-    <SUITE FILE_PATH="coverage/BJ$1992.coverage" NAME="1992 Coverage Results" MODIFIED="1621854822609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
+    <SUITE FILE_PATH="coverage/BJ$1080.coverage" NAME="1080 Coverage Results" MODIFIED="1622019766717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
     <SUITE FILE_PATH="coverage/BJ$2667.coverage" NAME="2667 Coverage Results" MODIFIED="1621613528179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
     <SUITE FILE_PATH="coverage/BJ$11724.coverage" NAME="11724 Coverage Results" MODIFIED="1621871052118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
-    <SUITE FILE_PATH="coverage/BJ$3079.coverage" NAME="3079 Coverage Results" MODIFIED="1621516162685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary search" />
     <SUITE FILE_PATH="coverage/BJ$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1621583521808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$1715.coverage" NAME="1715 Coverage Results" MODIFIED="1622013455601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
     <SUITE FILE_PATH="coverage/BJ$2143__1_.coverage" NAME="2143 (1) Coverage Results" MODIFIED="1621566743435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary search" />
     <SUITE FILE_PATH="coverage/BJ$7795.coverage" NAME="7795 Coverage Results" MODIFIED="1621569143189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary search" />
     <SUITE FILE_PATH="coverage/BJ$7576.coverage" NAME="7576 Coverage Results" MODIFIED="1621765165402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$4796.coverage" NAME="4796 Coverage Results" MODIFIED="1622003698051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$2468.coverage" NAME="2468 Coverage Results" MODIFIED="1621900765795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$1697.coverage" NAME="1697 Coverage Results" MODIFIED="1621768940623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$1744.coverage" NAME="1744 Coverage Results" MODIFIED="1622016454991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$1202.coverage" NAME="1202 Coverage Results" MODIFIED="1622045924373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$2468_dfs.coverage" NAME="2468_dfs Coverage Results" MODIFIED="1621906325682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
+    <SUITE FILE_PATH="coverage/BJ$1946.coverage" NAME="1946 Coverage Results" MODIFIED="1621998747350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$1992.coverage" NAME="1992 Coverage Results" MODIFIED="1621854822609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
+    <SUITE FILE_PATH="coverage/BJ$2437.coverage" NAME="2437 Coverage Results" MODIFIED="1622021466926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/greedy" />
+    <SUITE FILE_PATH="coverage/BJ$3079.coverage" NAME="3079 Coverage Results" MODIFIED="1621516162685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/binary search" />
     <SUITE FILE_PATH="coverage/BJ$1012.coverage" NAME="1012 Coverage Results" MODIFIED="1621782184301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS, BFS" />
   </component>
   <component name="editorHistoryManager">
