@@ -1,4 +1,6 @@
-k=0
-n = [1]
+n = int(input())
+coin = [500, 100, 50, 10]
 
-n.pop()
+for c in coin:
+    print(n//c, end=' ')
+    n %= c
